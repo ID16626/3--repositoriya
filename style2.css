@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper h1{
+    color: #363940;
+}
+.wrapper h4{
+    color: #95A1BB;
+}
+.text{
+    width: 600px;
+    text-align: center;
+}
+.wrapper_item button{
+    w
+    background-color: #6E38F7;
+    border: none;
+    border-radius: 3px;
+    color: #FFF;
+}
